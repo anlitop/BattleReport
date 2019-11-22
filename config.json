@@ -1,0 +1,72 @@
+{
+	"plt": [
+		"wx",
+		"wx2",
+		"4399",
+		"sdw",
+		"tt",
+		"huawei",
+		"swan",
+		"xiaomi",
+		"oppo",
+		"vivo",
+		"qq",
+		"qzone",
+		"hupu"
+	],
+	"race_type": [
+		1011,
+		1010
+	],
+	"pvp_level": [
+		1,
+		16
+	],
+	"pve_level": [
+		1,
+		15
+	],
+	"active_player_battle_times": 3,
+	"battle_area": [
+		[
+			"wx",
+			"oppo",
+			"tt"
+		],
+		[
+			"wx_2",
+			"huawei",
+			"vivo",
+			"qq",
+			"hupu"
+		],
+		[
+			"qzone",
+			"sdw"
+		]
+	],
+	"date": "2019/10/16 0:00:00",
+	"累计充值表格": "",
+	"封王之路表格": "",
+	"物品表格": "E:/H5Game/trunk/MsgWar/laya/table",
+	"战斗记录文件路径": "E:/DDMS_DAILY/Data/Battle/battle.csv",
+	"次留玩家文件路径": "F:/DDMS_Daily/Data/Battle/account.csv",
+	"结果保存路径": "F:/DDMS_Daily/Resoult/",
+	"sql_date": "2019-11-06",
+	"tga_url": "http://thinkgame2.shandw.com:8993",
+	"player_type":{
+		"首日玩家":{
+			"条件":[0,0,0]
+		},
+		"新手玩家":{
+			"条件":[-3,-1,0]
+		},
+		"老手玩家":{
+			"条件":[-6,-4,0]
+		},
+		"核心玩家":{
+			"条件":[-99999,-1,0]
+		}
+	}
+	
+}
